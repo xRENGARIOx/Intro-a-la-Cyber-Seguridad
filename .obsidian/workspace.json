@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "01 - General Skills/10 - Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "10 - Nice netcat..."
             }
           }
         ],
@@ -178,11 +178,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d9dc0ca25930132",
+  "active": "1f53e40dfa463cf3",
   "lastOpenFiles": [
+    "01 - General Skills/09 - Glitch Cat.md",
+    "01 - General Skills/10 - Nice netcat....md",
+    "01 - General Skills/08 - Plumbing.md",
+    "01 - General Skills/07 - Whats a net cat?.md",
+    "01 - General Skills/06 - Obedient Cat.md",
+    "01 - General Skills/05 - First Grep.md",
+    "Plantilla.md",
+    "01 - General Skills/04 - Bases.md",
+    "01 - General Skills/03 - Warmed UP.md",
+    "01 - General Skills/02 - 2WARM.md",
     "01 - Lets Warm Up.md",
     "01 - General Skills/01 - Lets Warm Up.md",
-    "Plantilla.md",
     "README.md",
     "01 - General Skills",
     "Advent of Cyber 2024.md",
