@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/02 - General Skills/11 - Based.md",
+                "file": "General Skills/03 - General Skills/30 - Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - Based"
+              "title": "30 - Serpentine"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/02 - General Skills/20 - First Find.md",
+                "file": "General Skills/03 - General Skills/29 - PW Crack 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 - First Find"
+              "title": "29 - PW Crack 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,36 +177,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f53e40dfa463cf3",
+  "active": "5f0d296bdd7d0c78",
   "lastOpenFiles": [
-    "General Skills/02 - General Skills/18 - repetitions.md",
-    "General Skills/02 - General Skills/20 - First Find.md",
-    "General Skills/02 - General Skills/19 - Big zip.md",
-    "General Skills/02 - General Skills/17 - Magikarp Ground Mission.md",
-    "General Skills/02 - General Skills/16 - Tab, Tab, Attack.md",
-    "General Skills/02 - General Skills/15 - Useless.md",
-    "General Skills/02 - General Skills/14 - Static ain't always noise.md",
-    "General Skills/02 - General Skills/13 - Wave a flag.md",
+    "General Skills/03 - General Skills/29 - PW Crack 3.md",
+    "General Skills/03 - General Skills/30 - Serpentine.md",
     "General Skills/02 - General Skills/11 - Based.md",
-    "General Skills/02 - General Skills/12 - Strings it.md",
-    "General Skills/01 - General Skills/08 - Plumbing.md",
-    "Plantilla.md",
-    "General Skills/01 - General Skills/01 - Lets Warm Up.md",
     "General Skills/01 - General Skills/10 - Nice netcat....md",
-    "General Skills/02 - General Skills",
-    "01 - General Skills/Untitled/Untitled",
-    "General Skills/01 - General Skills",
+    "General Skills/03 - General Skills/27 - PW Crack 2.md",
+    "General Skills/03 - General Skills/26 - fixme2.py.md",
+    "General Skills/03 - General Skills/27 - PW Crack 1.md",
+    "General Skills/03 - General Skills/25 - fixme1.py.md",
+    "General Skills/03 - General Skills/24 - convertme.py.md",
     "General Skills/01 - General Skills/09 - Glitch Cat.md",
+    "General Skills/01 - General Skills/08 - Plumbing.md",
     "General Skills/01 - General Skills/07 - Whats a net cat?.md",
     "General Skills/01 - General Skills/06 - Obedient Cat.md",
     "General Skills/01 - General Skills/05 - First Grep.md",
     "General Skills/01 - General Skills/04 - Bases.md",
     "General Skills/01 - General Skills/03 - Warmed UP.md",
     "General Skills/01 - General Skills/02 - 2WARM.md",
-    "01 - Lets Warm Up.md",
-    "README.md",
-    "General Skills",
-    "Advent of Cyber 2024.md",
-    "Welcome.md"
+    "General Skills/01 - General Skills/01 - Lets Warm Up.md",
+    "General Skills/02 - General Skills/20 - First Find.md",
+    "General Skills/02 - General Skills/18 - repetitions.md",
+    "General Skills/02 - General Skills/17 - Magikarp Ground Mission.md",
+    "General Skills/02 - General Skills/16 - Tab, Tab, Attack.md",
+    "General Skills/02 - General Skills/15 - Useless.md",
+    "General Skills/02 - General Skills/14 - Static ain't always noise.md",
+    "General Skills/02 - General Skills/13 - Wave a flag.md",
+    "General Skills/02 - General Skills/12 - Strings it.md",
+    "General Skills/03 - General Skills",
+    "General Skills/02 - General Skills",
+    "01 - General Skills/Untitled/Untitled",
+    "General Skills/01 - General Skills",
+    "General Skills"
   ]
 }
