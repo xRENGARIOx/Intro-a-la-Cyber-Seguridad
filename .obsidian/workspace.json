@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/03 - General Skills/30 - Serpentine.md",
+                "file": "Tareas/Tarea 1 - General Skills/04 - Commitment Issues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30 - Serpentine"
+              "title": "04 - Commitment Issues"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/03 - General Skills/29 - PW Crack 3.md",
+                "file": "Tareas/Tarea 1 - General Skills/10 - ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29 - PW Crack 3"
+              "title": "10 - ASCII Numbers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +178,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f0d296bdd7d0c78",
+  "active": "151aae8d4c4a5636",
   "lastOpenFiles": [
+    "Tareas/Tarea 1 - General Skills/06 - Blame Game.md",
+    "Tareas/Tarea 1 - General Skills/10 - ASCII Numbers.md",
+    "Plantilla.md",
+    "Tareas/Tarea 1 - General Skills/09 - binhexa.md",
+    "Tareas/Tarea 1 - General Skills/08 - Binary Search.md",
+    "Tareas/Tarea 1 - General Skills/07 - Collaborative Development.md",
+    "Tareas/Tarea 1 - General Skills/05 - Time machine.md",
     "General Skills/03 - General Skills/29 - PW Crack 3.md",
+    "Tareas/Tarea 1 - General Skills/04 - Commitment Issues.md",
+    "Tareas/Tarea 1 - General Skills/03 - special.md",
+    "Tareas/Tarea 1 - General Skills/02 - chrono.md",
+    "Tareas/Tarea 1 - General Skills/01 - permissions.md",
+    "Tareas",
+    "Tareas/Tarea 1 - General Skills",
     "General Skills/03 - General Skills/30 - Serpentine.md",
     "General Skills/02 - General Skills/11 - Based.md",
     "General Skills/01 - General Skills/10 - Nice netcat....md",
@@ -194,17 +208,6 @@
     "General Skills/01 - General Skills/06 - Obedient Cat.md",
     "General Skills/01 - General Skills/05 - First Grep.md",
     "General Skills/01 - General Skills/04 - Bases.md",
-    "General Skills/01 - General Skills/03 - Warmed UP.md",
-    "General Skills/01 - General Skills/02 - 2WARM.md",
-    "General Skills/01 - General Skills/01 - Lets Warm Up.md",
-    "General Skills/02 - General Skills/20 - First Find.md",
-    "General Skills/02 - General Skills/18 - repetitions.md",
-    "General Skills/02 - General Skills/17 - Magikarp Ground Mission.md",
-    "General Skills/02 - General Skills/16 - Tab, Tab, Attack.md",
-    "General Skills/02 - General Skills/15 - Useless.md",
-    "General Skills/02 - General Skills/14 - Static ain't always noise.md",
-    "General Skills/02 - General Skills/13 - Wave a flag.md",
-    "General Skills/02 - General Skills/12 - Strings it.md",
     "General Skills/03 - General Skills",
     "General Skills/02 - General Skills",
     "01 - General Skills/Untitled/Untitled",
