@@ -11,10 +11,14 @@
             "id": "9950722a319486fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - Scavenger Huntd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03 - Scavenger Huntd"
             }
           }
         ]
@@ -161,6 +165,9 @@
   },
   "active": "9950722a319486fd",
   "lastOpenFiles": [
+    "02 - Cookies.md",
+    "03 - Scavenger Huntd.md",
+    "01 - GET aHEAD.md",
     "Tareas/Tarea 1 - General Skills/04 - Commitment Issues.md",
     "General Skills/03 - General Skills/30 - Serpentine.md",
     "picoCTF - 2025/No Sanity.md",
@@ -187,9 +194,6 @@
     "picoCTF - 2025/RED.md",
     "picoCTF - 2025/Phantom Intruder.md",
     "Tareas/Tarea 1 - General Skills/10 - ASCII Numbers.md",
-    "Tareas/Tarea 1 - General Skills/06 - Blame Game.md",
-    "Plantilla.md",
-    "Tareas/Tarea 1 - General Skills/09 - binhexa.md",
     "Tareas",
     "Tareas/Tarea 1 - General Skills",
     "General Skills/03 - General Skills",
