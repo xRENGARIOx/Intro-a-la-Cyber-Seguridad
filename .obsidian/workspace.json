@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f61b4a517c2360eb",
+        "id": "0ef0300bf4db14ca",
         "type": "tabs",
         "children": [
           {
-            "id": "73deb12527c671f0",
+            "id": "c6668e150000d9d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/Tarea 2 - WEB/10 - WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10 - WebDecode"
             }
           }
         ]
@@ -159,11 +163,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f53e40dfa463cf3",
+  "active": "c6668e150000d9d8",
   "lastOpenFiles": [
+    "Tareas/Tarea 2 - WEB/01 - Includes.md",
+    "Tareas/Tarea 2 - WEB/10 - WebDecode.md",
+    "Tareas/Tarea 2 - WEB",
+    "Tareas/Tarea 2 - WEB/02 - Inspect HTML.md",
+    "Tareas/Tarea 2 - WEB/03 - IntroToBurp.md",
+    "Tareas/Tarea 2 - WEB/04 - Local Authority.md",
+    "Tareas/Tarea 2 - WEB/05 - Power Cookie.md",
+    "Tareas/Tarea 2 - WEB/06 - Roboto Sans.md",
+    "Tareas/Tarea 2 - WEB/08 - SQLiLite.md",
+    "Tareas/Tarea 2 - WEB/07 - Secrets.md",
+    "Tareas/Tarea 2 - WEB/09 - Unminify.md",
+    "Plantilla.md",
+    "WEB/03 - WEB/02 - More SQLi.md",
     "WEB/03 - WEB/03 - JaWT Scratchpad.md",
     "WEB/03 - WEB",
-    "WEB/03 - WEB/02 - More SQLi.md",
     "WEB/03 - WEB/01- Irish-Name-Repo 1.md",
     "WEB/02 - WEB/01 - GET aHEAD.md",
     "WEB/02 - WEB/03 - Scavenger Huntd.md",
@@ -179,22 +195,10 @@
     "WEB/01 - WEB/06 - Client-side-again.md",
     "picoCTF - 2025",
     "WEB/01 - WEB/05 - picobrowser.md",
-    "WEB/01 - WEB/04 - dont-use-client-side.md",
-    "WEB/01 - WEB/03 - logon.md",
-    "WEB/01 - WEB/02 - where are the robots.md",
-    "WEB/01 - WEB/01 - Insp3ct0r.md",
-    "Untitled.md",
     "WEB/01 - WEB",
     "WEB",
-    "picoCTF - 2025/SSTI 2.md",
-    "picoCTF - 2025/EVAL.md",
-    "picoCTF - 2025/Crack hash.md",
-    "picoCTF - 2025/flag hunters.md",
-    "picoCTF - 2025/PIE TIME 2.md",
-    "picoCTF - 2025/PIE TIME.md",
     "Tareas",
     "Tareas/Tarea 1 - General Skills",
-    "General Skills/03 - General Skills",
-    "General Skills/02 - General Skills"
+    "General Skills/03 - General Skills"
   ]
 }
