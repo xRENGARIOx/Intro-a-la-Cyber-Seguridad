@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef0300bf4db14ca",
+        "id": "dc64a6745faab021",
         "type": "tabs",
         "children": [
           {
-            "id": "c6668e150000d9d8",
+            "id": "c0000a98e199f3f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tareas/Tarea 2 - WEB/10 - WebDecode.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10 - WebDecode"
+              "title": "New tab"
             }
           }
         ]
@@ -163,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6668e150000d9d8",
+  "active": "1f53e40dfa463cf3",
   "lastOpenFiles": [
-    "Tareas/Tarea 2 - WEB/01 - Includes.md",
+    "WEB/04 - WEB/02 - SOAP.md",
+    "WEB/04 - WEB/03 - Trickster.md",
+    "WEB/04 - WEB/04 - Most Cookies.md",
+    "WEB/04 - WEB",
+    "WEB/04 - WEB/01 - MatchTheRegex.md",
     "Tareas/Tarea 2 - WEB/10 - WebDecode.md",
+    "Tareas/Tarea 2 - WEB/01 - Includes.md",
     "Tareas/Tarea 2 - WEB",
     "Tareas/Tarea 2 - WEB/02 - Inspect HTML.md",
     "Tareas/Tarea 2 - WEB/03 - IntroToBurp.md",
@@ -190,15 +191,10 @@
     "General Skills/03 - General Skills/30 - Serpentine.md",
     "picoCTF - 2025/No Sanity.md",
     "picoCTF - 2025/WEB.md",
-    "picoCTF - 2025/cheese.md",
-    "README.md",
-    "WEB/01 - WEB/06 - Client-side-again.md",
     "picoCTF - 2025",
-    "WEB/01 - WEB/05 - picobrowser.md",
     "WEB/01 - WEB",
     "WEB",
     "Tareas",
-    "Tareas/Tarea 1 - General Skills",
-    "General Skills/03 - General Skills"
+    "Tareas/Tarea 1 - General Skills"
   ]
 }
