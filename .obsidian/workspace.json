@@ -11,10 +11,14 @@
             "id": "c0000a98e199f3f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Forensics/01 - Forensics/01 - Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01 - Glory of the Garden"
             }
           }
         ]
@@ -161,6 +165,13 @@
   },
   "active": "1f53e40dfa463cf3",
   "lastOpenFiles": [
+    "Forensics/01 - Forensics/05 - What Lies Within.md",
+    "Forensics/01 - Forensics",
+    "Forensics",
+    "Forensics/01 - Forensics/03 - shark on wire 1.md",
+    "Forensics/01 - Forensics/04 - extensions.md",
+    "Forensics/01 - Forensics/02 - So Meta.md",
+    "Forensics/01 - Forensics/01 - Glory of the Garden.md",
     "WEB/04 - WEB/02 - SOAP.md",
     "WEB/04 - WEB/03 - Trickster.md",
     "WEB/04 - WEB/04 - Most Cookies.md",
@@ -186,15 +197,8 @@
     "WEB/02 - WEB/03 - Scavenger Huntd.md",
     "WEB/02 - WEB",
     "WEB/01 - WEB/0",
-    "WEB/02 - WEB/02 - Cookies.md",
-    "Tareas/Tarea 1 - General Skills/04 - Commitment Issues.md",
-    "General Skills/03 - General Skills/30 - Serpentine.md",
-    "picoCTF - 2025/No Sanity.md",
-    "picoCTF - 2025/WEB.md",
     "picoCTF - 2025",
     "WEB/01 - WEB",
-    "WEB",
-    "Tareas",
-    "Tareas/Tarea 1 - General Skills"
+    "WEB"
   ]
 }
