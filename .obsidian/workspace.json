@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4fa08c58bfec214d",
+        "id": "d0d38e8d5483a69e",
         "type": "tabs",
         "children": [
           {
-            "id": "e4858f8bd83e8429",
+            "id": "f508f6fcc6a0ec21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - c0rrupt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03 - c0rrupt"
+            }
+          },
+          {
+            "id": "6eb32a769b1b4c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensics/02 - Forensics/05 - shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - shark on wire 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,6 +180,12 @@
   },
   "active": "1f53e40dfa463cf3",
   "lastOpenFiles": [
+    "Forensics/02 - Forensics",
+    "Forensics/02 - Forensics/03 - c0rrupt.md",
+    "Forensics/02 - Forensics/04 - like1000.md",
+    "Forensics/02 - Forensics/05 - shark on wire 2.md",
+    "Forensics/02 - Forensics/02 - WhitePages.md",
+    "Forensics/02 - Forensics/01 - m00nwalk.md",
     "Examenes/Examen 1/WEB/10 - WebSockFish.md",
     "Examenes/Examen 1/WEB/06 - findme.md",
     "Examenes/Examen 1/WEB/05 - SSTI1.md",
@@ -181,17 +206,11 @@
     "Examenes/Examen 1/General Skills/05 - Rust fixme 2.md",
     "Examenes/Examen 1/General Skills/04 - Rust fixme 1.md",
     "Examenes/Examen 1/General Skills/03 - Python Wrangling.md",
-    "Examenes/Examen 1/General Skills/02 - HashingJobApp.md",
-    "Examenes/Examen 1/General Skills/01 - FANTASY CTF.md",
-    "Examenes/Examen 1/General Skills/09 - SansAlpha.md",
-    "Examenes/Examen 1/WEB/01 - Bookmarklet.md",
     "Examenes/Examen 1/General Skills",
     "Examenes/Examen 1/WEB",
     "Untitled",
     "Examenes/Examen 1",
-    "Forensics/01 - Forensics/01 - Glory of the Garden.md",
     "Examenes",
-    "Forensics/01 - Forensics/05 - What Lies Within.md",
     "Forensics/01 - Forensics",
     "Forensics",
     "WEB/04 - WEB",
