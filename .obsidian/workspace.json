@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensics/02 - Forensics/05 - shark on wire 2.md",
+                "file": "Forensics/03 - Forensics/05 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - shark on wire 2"
+              "title": "05 - MacroHard WeakEdge"
             }
           }
         ],
@@ -180,10 +180,17 @@
   },
   "active": "1f53e40dfa463cf3",
   "lastOpenFiles": [
+    "Forensics/03 - Forensics/04 - tunn3l v1s10n.md",
+    "Forensics/03 - Forensics/05 - MacroHard WeakEdge.md",
+    "Forensics/03 - Forensics/03 - Matryoshka doll.md",
+    "Forensics/03 - Forensics/02 - Webnet1.md",
+    "Forensics/03 - Forensics/01 - WebNet0.md",
+    "Forensics/03 - Forensics",
+    "README 1.md",
+    "Forensics/02 - Forensics/05 - shark on wire 2.md",
     "Forensics/02 - Forensics",
     "Forensics/02 - Forensics/03 - c0rrupt.md",
     "Forensics/02 - Forensics/04 - like1000.md",
-    "Forensics/02 - Forensics/05 - shark on wire 2.md",
     "Forensics/02 - Forensics/02 - WhitePages.md",
     "Forensics/02 - Forensics/01 - m00nwalk.md",
     "Examenes/Examen 1/WEB/10 - WebSockFish.md",
@@ -201,11 +208,6 @@
     "Examenes/Examen 1/WEB/02 - Cookie Monster Secret Recipe.md",
     "Examenes/Examen 1/General Skills/10 - Specialer.md",
     "Examenes/Examen 1/General Skills/08 - flag_shop.md",
-    "Examenes/Examen 1/General Skills/07 - dont-you-love-banners.md",
-    "Examenes/Examen 1/General Skills/06 - Rust fixme 3.md",
-    "Examenes/Examen 1/General Skills/05 - Rust fixme 2.md",
-    "Examenes/Examen 1/General Skills/04 - Rust fixme 1.md",
-    "Examenes/Examen 1/General Skills/03 - Python Wrangling.md",
     "Examenes/Examen 1/General Skills",
     "Examenes/Examen 1/WEB",
     "Untitled",
@@ -213,8 +215,6 @@
     "Examenes",
     "Forensics/01 - Forensics",
     "Forensics",
-    "WEB/04 - WEB",
-    "Tareas/Tarea 2 - WEB",
-    "WEB/03 - WEB"
+    "WEB/04 - WEB"
   ]
 }
