@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - c0rrupt.md",
+                "file": "Forensics/04 - Forensics/02 - Disk, disk, sleuth!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - c0rrupt"
+              "title": "02 - Disk, disk, sleuth!"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensics/03 - Forensics/05 - MacroHard WeakEdge.md",
+                "file": "Forensics/04 - Forensics/06 - Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - MacroHard WeakEdge"
+              "title": "06 - Operation Oni"
             }
           }
         ],
@@ -178,10 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f53e40dfa463cf3",
+  "active": "6eb32a769b1b4c6a",
   "lastOpenFiles": [
-    "Forensics/03 - Forensics/04 - tunn3l v1s10n.md",
+    "Forensics/04 - Forensics/05 - Operation Orchid.md",
+    "Forensics/04 - Forensics/06 - Operation Oni.md",
+    "Forensics/04 - Forensics/04 - Sleuthkit Apprentice.md",
+    "Forensics/04 - Forensics/02 - Disk, disk, sleuth!.md",
+    "Forensics/04 - Forensics/03 - Sleuthkit Intro.md",
+    "Forensics/04 - Forensics/01 - Milkslap.md",
+    "Plantilla.md",
+    "README.md",
     "Forensics/03 - Forensics/05 - MacroHard WeakEdge.md",
+    "Forensics/04 - Forensics",
+    "Forensics/03 - Forensics/04 - tunn3l v1s10n.md",
     "Forensics/03 - Forensics/03 - Matryoshka doll.md",
     "Forensics/03 - Forensics/02 - Webnet1.md",
     "Forensics/03 - Forensics/01 - WebNet0.md",
@@ -200,21 +209,12 @@
     "Examenes/Examen 1/WEB/09 - SSTI2.md",
     "Examenes/Examen 1/WEB/08 - SQL Direct.md",
     "Examenes/Examen 1/WEB/07 - Java Code Analysis!?!.md",
-    "Plantilla.md",
-    "WEB/04 - WEB/01 - MatchTheRegex.md",
-    "WEB/04 - WEB/03 - Trickster.md",
-    "Examenes/Examen 1/WEB/04 - n0s4n1ty 1.md",
-    "Examenes/Examen 1/WEB/03 - head-dump.md",
-    "Examenes/Examen 1/WEB/02 - Cookie Monster Secret Recipe.md",
-    "Examenes/Examen 1/General Skills/10 - Specialer.md",
-    "Examenes/Examen 1/General Skills/08 - flag_shop.md",
     "Examenes/Examen 1/General Skills",
     "Examenes/Examen 1/WEB",
     "Untitled",
     "Examenes/Examen 1",
     "Examenes",
     "Forensics/01 - Forensics",
-    "Forensics",
-    "WEB/04 - WEB"
+    "Forensics"
   ]
 }
