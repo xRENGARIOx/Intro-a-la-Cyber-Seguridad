@@ -11,10 +11,14 @@
             "id": "954bfddac86a7a05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/01 - Crypto/08 - interencdec.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "08 - interencdec"
             }
           }
         ]
@@ -159,12 +163,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "954bfddac86a7a05",
+  "active": "1f53e40dfa463cf3",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "Crypto/01 - Crypto",
+    "Crypto/01 - Crypto/07 - waves over lambda.md",
+    "Crypto/01 - Crypto/08 - interencdec.md",
+    "Crypto/01 - Crypto/06 - Tapping.md",
+    "Crypto/01 - Crypto/05 - la cifra de.md",
+    "Crypto/01 - Crypto/04 - Easy 1.md",
+    "Crypto/01 - Crypto/03 - caesar.md",
+    "Crypto/01 - Crypto/02  - 13.md",
+    "Crypto/01 - Crypto/01 - The Numbers.md",
+    "Crypto",
     "Tareas/Tarea 3 - Forensics/10 - flags are stepic.md",
     "Tareas/Tarea 3 - Forensics/06 - CanYouSee.md",
     "Tareas/Tarea 3 - Forensics",
-    "Plantilla.md",
     "Tareas/Tarea 3 - Forensics/09 - Ph4nt0m 1ntrud3r.md",
     "Tareas/Tarea 3 - Forensics/08 - RED.md",
     "Tareas/Tarea 3 - Forensics/07 - Secret of the Polyglot.md",
@@ -179,22 +193,12 @@
     "Forensics/04 - Forensics/04 - Sleuthkit Apprentice.md",
     "Forensics/04 - Forensics/03 - Sleuthkit Intro.md",
     "Forensics/04 - Forensics/01 - Milkslap.md",
-    "README.md",
-    "Forensics/03 - Forensics/05 - MacroHard WeakEdge.md",
     "Forensics/04 - Forensics",
-    "Forensics/03 - Forensics/04 - tunn3l v1s10n.md",
-    "Forensics/03 - Forensics/03 - Matryoshka doll.md",
-    "Forensics/03 - Forensics/02 - Webnet1.md",
-    "Forensics/03 - Forensics/01 - WebNet0.md",
     "Forensics/03 - Forensics",
-    "README 1.md",
-    "Forensics/02 - Forensics/05 - shark on wire 2.md",
     "Forensics/02 - Forensics",
     "Examenes/Examen 1/General Skills",
     "Examenes/Examen 1/WEB",
-    "Untitled",
     "Examenes/Examen 1",
-    "Examenes",
-    "Forensics/01 - Forensics"
+    "Examenes"
   ]
 }
