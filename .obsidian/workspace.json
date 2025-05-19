@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/01 - Crypto/08 - interencdec.md",
+                "file": "Crypto/02 - Crypto/01 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - interencdec"
+              "title": "01 - rsa-pop-quiz"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200
   },
   "right": {
     "id": "18292ac3931cea7e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advent of Cyber 2024.md",
+                "file": "Crypto/02 - Crypto/01 - rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Advent of Cyber 2024"
+              "title": "Backlinks for 01 - rsa-pop-quiz"
             }
           },
           {
@@ -165,10 +165,12 @@
   },
   "active": "1f53e40dfa463cf3",
   "lastOpenFiles": [
+    "Crypto/02 - Crypto",
+    "Crypto/01 - Crypto/08 - interencdec.md",
+    "Crypto/02 - Crypto/01 - rsa-pop-quiz.md",
     "Plantilla.md",
     "Crypto/01 - Crypto",
     "Crypto/01 - Crypto/07 - waves over lambda.md",
-    "Crypto/01 - Crypto/08 - interencdec.md",
     "Crypto/01 - Crypto/06 - Tapping.md",
     "Crypto/01 - Crypto/05 - la cifra de.md",
     "Crypto/01 - Crypto/04 - Easy 1.md",
@@ -192,7 +194,6 @@
     "Forensics/04 - Forensics/05 - Operation Orchid.md",
     "Forensics/04 - Forensics/04 - Sleuthkit Apprentice.md",
     "Forensics/04 - Forensics/03 - Sleuthkit Intro.md",
-    "Forensics/04 - Forensics/01 - Milkslap.md",
     "Forensics/04 - Forensics",
     "Forensics/03 - Forensics",
     "Forensics/02 - Forensics",
